@@ -3,6 +3,8 @@ Helper para desconectar / reconectar rápido em GPC
 
 Testado em windows 10.
 
+download compilado: https://github.com/Fliperworld/Reinicia-Internet-Goddess/releases
+
 Modo de uso :
 Para conexões cabeadas, apenas execute o app normalmente.
 Para Wifi , execute ele como admin.
