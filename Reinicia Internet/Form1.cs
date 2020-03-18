@@ -58,7 +58,7 @@ namespace Reinicia_Internet
                 process.Start();
                 process.WaitForExit();
 
-                await System.Threading.Tasks.Task.Delay(1000);
+                await System.Threading.Tasks.Task.Delay(3000);
 
                 process = new Process();
                 process.StartInfo.RedirectStandardOutput = true;
